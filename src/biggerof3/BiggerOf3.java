@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author alumnot
+ * @author Jacka97
  */
 public class BiggerOf3 {
 
